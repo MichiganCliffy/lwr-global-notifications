@@ -1,0 +1,29 @@
+<template>
+  <article class="slds-post">
+    <header class="slds-post__header slds-media">
+      <div lwc:if={hasAvatar} class="slds-media__figure">
+        <input type="image" src={avatar} title={avatarTitle} class="slds-avatar slds-avatar_circle slds-avatar_large" onclick={handleAvatarClick}>
+      </div>
+      <div class="slds-media__body">
+        <div class="slds-grid slds-grid_align-spread slds-has-flexi-truncate">
+          <c-lwr-chatter-feed-item-title header={header} mapping={mapping} onnavigation={handleNavigation}></c-lwr-chatter-feed-item-title>
+          <c-lwr-chatter-feed-item-menu item={item} onselect={handleSelect}></c-lwr-chatter-feed-item-menu>
+        </div>
+        <p class="slds-text-body_small">
+          <lightning-button variant="base" class="slds-text-link_reset" label={relativeCreatedDate} title="Click for single-item view of this post" onclick={handleDateClick}></lightning-button>
+        </p>
+      </div>
+    </header>
+    <div class="slds-post__content slds-text-longform">
+      <c-lwr-chatter-feed-item-body body={body} capabilities={capabilities}></c-lwr-chatter-feed-item-body>
+    </div>
+    <footer class="slds-post__footer">
+      <c-lwr-chatter-feed-item-actions item={item} oncomment={handleCommentToggle}></c-lwr-chatter-feed-item-actions>
+      <c-lwr-chatter-feed-item-footer item={item}></c-lwr-chatter-feed-item-footer>
+    </footer>
+  </article>
+  <div class="slds-feed__item-comments">
+    <c-lwr-chatter-comments item={item} ondelete={handleDelete} onupdate={handleUpdate} onedittoggle={handleEditToggle}></c-lwr-chatter-comments>
+    <c-lwr-chatter-comment-new lwc:if={showNewComment} feed-item-id={item.id} oncomment={handleComment}></c-lwr-chatter-comment-new>
+  </div>
+</template>

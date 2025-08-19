@@ -1,0 +1,4340 @@
+{
+  "feed": {
+    "currentPageToken": null,
+    "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feeds/news/005al000000MFmnAAG/feed-elements",
+    "elements": [
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            {
+              "accessible": true,
+              "name": "a_young",
+              "record": {
+                "additionalLabel": "Partner",
+                "communityNickname": "a_young",
+                "companyName": null,
+                "displayName": "a_young",
+                "firstName": null,
+                "id": "005al00000Hkx8AAAR",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "a_young",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al00000Hkx8AAAR/photo"
+                },
+                "reputation": null,
+                "title": "SVP, Operations",
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al00000Hkx8AAAR",
+                "userType": "Portal"
+              },
+              "text": "@a_young",
+              "type": "Mention"
+            },
+            { "text": "​ did you get this?", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "@a_young​ did you get this?\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000r2g8tCAA/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000r2g8tCAA/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000r2g8tCAA/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 4 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-05-15T21:13:46.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000r2g8tCAA/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2025-05-15T21:13:46.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "9602C7",
+                "largeIconUrl": "/img/icon/contacts64.png",
+                "mediumIconUrl": "/img/icon/contacts32.png",
+                "smallIconUrl": "/img/icon/contacts16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "003al000000XgDRAA0",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/003al000000XgDRAA0"
+              },
+              "text": "Andy Young",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            }
+          ],
+          "text": "Andy Young — bclifford"
+        },
+        "id": "0D5al00000r2g8tCAA",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2025-05-15T21:13:46.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Contact", "labelPlural": "Contacts" },
+          "id": "003al000000XgDRAA0",
+          "motif": {
+            "color": "9602C7",
+            "largeIconUrl": "/img/icon/contacts64.png",
+            "mediumIconUrl": "/img/icon/contacts32.png",
+            "smallIconUrl": "/img/icon/contacts16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Andy Young",
+          "type": "Contact",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/003al000000XgDRAA0"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "May 15, 2025 at 2:13 PM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000r2g8tCAA",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            { "text": "Hello ", "type": "Text" },
+            {
+              "accessible": false,
+              "name": "a_young",
+              "record": {
+                "additionalLabel": "Partner",
+                "communityNickname": "a_young",
+                "companyName": null,
+                "displayName": "a_young",
+                "firstName": null,
+                "id": "005al00000Hkx8AAAR",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "a_young",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al00000Hkx8AAAR/photo"
+                },
+                "reputation": null,
+                "title": "SVP, Operations",
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al00000Hkx8AAAR",
+                "userType": "Portal"
+              },
+              "text": "@a_young",
+              "type": "Mention"
+            },
+            { "text": "​ did you get this?", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "Hello @a_young​ did you get this?\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": true,
+            "likesMessage": {
+              "isRichText": null,
+              "messageSegments": [{ "text": "You like this.", "type": "Text" }],
+              "text": "You like this."
+            },
+            "myLike": {
+              "id": "0I0al000000kM3xCAE",
+              "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/likes/0I0al000000kM3xCAE"
+            },
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvwsgCAA/capabilities/chatter-likes/items",
+              "items": [
+                {
+                  "id": "0I0al000000kM3xCAE",
+                  "likedItem": {
+                    "id": "0D5al00000qvwsgCAA",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvwsgCAA"
+                  },
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/likes/0I0al000000kM3xCAE",
+                  "user": {
+                    "additionalLabel": null,
+                    "communityNickname": "bclifford",
+                    "companyName": "Salesforce",
+                    "displayName": "bclifford",
+                    "firstName": null,
+                    "id": "005al000000MFmnAAG",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": null,
+                    "motif": {
+                      "color": "1B96FF",
+                      "largeIconUrl": "/img/icon/profile64.png",
+                      "mediumIconUrl": "/img/icon/profile32.png",
+                      "smallIconUrl": "/img/icon/profile16.png",
+                      "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "bclifford",
+                    "outOfOffice": { "message": "" },
+                    "photo": {
+                      "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                      "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                      "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                      "photoVersionId": null,
+                      "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                      "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                    "userType": "Internal"
+                  }
+                }
+              ],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 1
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvwsgCAA/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvwsgCAA/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 2 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-05-14T16:34:55.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvwsgCAA/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 1
+          }
+        },
+        "clientInfo": {
+          "applicationName": "Salesforce CLI",
+          "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+        },
+        "createdDate": "2025-05-14T16:34:55.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "9602C7",
+                "largeIconUrl": "/img/icon/contacts64.png",
+                "mediumIconUrl": "/img/icon/contacts32.png",
+                "smallIconUrl": "/img/icon/contacts16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "003al000000XgDRAA0",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/003al000000XgDRAA0"
+              },
+              "text": "Andy Young",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " to Salesforce Only", "type": "Text" }
+          ],
+          "text": "Andy Young — bclifford to Salesforce Only"
+        },
+        "id": "0D5al00000qvwsgCAA",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2025-05-14T16:34:55.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Contact", "labelPlural": "Contacts" },
+          "id": "003al000000XgDRAA0",
+          "motif": {
+            "color": "9602C7",
+            "largeIconUrl": "/img/icon/contacts64.png",
+            "mediumIconUrl": "/img/icon/contacts32.png",
+            "smallIconUrl": "/img/icon/contacts16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Andy Young",
+          "type": "Contact",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/003al000000XgDRAA0"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "May 14, 2025 at 9:34 AM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvwsgCAA",
+        "visibility": "InternalUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvvdDCAQ/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvvdDCAQ/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvvdDCAQ/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-05-14T16:02:12.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvvdDCAQ/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal00000RlRQREA3",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Call",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    { "label": "Subject", "text": "Call", "type": "Picklist" },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Opportunity",
+                          "labelPlural": "Opportunities"
+                        },
+                        "id": "006al000000WfCyAAK",
+                        "motif": {
+                          "color": "FF5D2D",
+                          "largeIconUrl": "/img/icon/opportunities64.png",
+                          "mediumIconUrl": "/img/icon/opportunities32.png",
+                          "smallIconUrl": "/img/icon/opportunities16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Dickenson Mobile Generators",
+                        "type": "Opportunity",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+                      },
+                      "text": "Dickenson Mobile Generators",
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": {
+          "applicationName": "Salesforce CLI",
+          "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+        },
+        "createdDate": "2025-05-14T16:02:12.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal00000RlRQREA3",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000RlRQREA3"
+              },
+              "text": "Call",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Call — bclifford created a task."
+        },
+        "id": "0D5al00000qvvdDCAQ",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2025-05-14T16:02:12.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal00000RlRQREA3",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Call",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000RlRQREA3"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "May 14, 2025 at 9:02 AM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvvdDCAQ",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvrrOCAQ/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvrrOCAQ/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvrrOCAQ/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-05-14T16:01:50.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvrrOCAQ/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal00000RlMc3EAF",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Email",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    { "label": "Subject", "text": "Email", "type": "Picklist" },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Opportunity",
+                          "labelPlural": "Opportunities"
+                        },
+                        "id": "006al000000WfCyAAK",
+                        "motif": {
+                          "color": "FF5D2D",
+                          "largeIconUrl": "/img/icon/opportunities64.png",
+                          "mediumIconUrl": "/img/icon/opportunities32.png",
+                          "smallIconUrl": "/img/icon/opportunities16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Dickenson Mobile Generators",
+                        "type": "Opportunity",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+                      },
+                      "text": "Dickenson Mobile Generators",
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": {
+          "applicationName": "Salesforce CLI",
+          "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+        },
+        "createdDate": "2025-05-14T16:01:50.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal00000RlMc3EAF",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000RlMc3EAF"
+              },
+              "text": "Email",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Email — bclifford created a task."
+        },
+        "id": "0D5al00000qvrrOCAQ",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2025-05-14T16:01:50.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal00000RlMc3EAF",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Email",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000RlMc3EAF"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "May 14, 2025 at 9:01 AM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000qvrrOCAQ",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            {
+              "accessible": true,
+              "name": "User17406771376937681030",
+              "record": {
+                "additionalLabel": null,
+                "communityNickname": "User17406771376937681030",
+                "companyName": null,
+                "displayName": "User17406771376937681030",
+                "firstName": null,
+                "id": "005al00000EghWjAAJ",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "User17406771376937681030",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al00000EghWjAAJ/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al00000EghWjAAJ",
+                "userType": "Internal"
+              },
+              "text": "@User17406771376937681030",
+              "type": "Mention"
+            },
+            { "text": "​ here is a chatter mention!", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "@User17406771376937681030​ here is a chatter mention!\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": true,
+            "likesMessage": {
+              "isRichText": null,
+              "messageSegments": [{ "text": "You like this.", "type": "Text" }],
+              "text": "You like this."
+            },
+            "myLike": {
+              "id": "0I0al000000kMFFCA2",
+              "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/likes/0I0al000000kMFFCA2"
+            },
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM/capabilities/chatter-likes/items",
+              "items": [
+                {
+                  "id": "0I0al000000kMFFCA2",
+                  "likedItem": {
+                    "id": "0D5al00000mfQSmCAM",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM"
+                  },
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/likes/0I0al000000kMFFCA2",
+                  "user": {
+                    "additionalLabel": null,
+                    "communityNickname": "bclifford",
+                    "companyName": "Salesforce",
+                    "displayName": "bclifford",
+                    "firstName": null,
+                    "id": "005al000000MFmnAAG",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": null,
+                    "motif": {
+                      "color": "1B96FF",
+                      "largeIconUrl": "/img/icon/profile64.png",
+                      "mediumIconUrl": "/img/icon/profile32.png",
+                      "smallIconUrl": "/img/icon/profile16.png",
+                      "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "bclifford",
+                    "outOfOffice": { "message": "" },
+                    "photo": {
+                      "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                      "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                      "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                      "photoVersionId": null,
+                      "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                      "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                    "userType": "Internal"
+                  }
+                }
+              ],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 1
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM/capabilities/comments/items",
+              "items": [
+                {
+                  "body": {
+                    "isRichText": true,
+                    "messageSegments": [
+                      {
+                        "altText": null,
+                        "htmlTag": "p",
+                        "markupType": "Paragraph",
+                        "text": "",
+                        "type": "MarkupBegin",
+                        "url": null
+                      },
+                      { "text": "Test comment 1", "type": "Text" },
+                      {
+                        "htmlTag": "p",
+                        "markupType": "Paragraph",
+                        "text": "\n",
+                        "type": "MarkupEnd"
+                      }
+                    ],
+                    "text": "Test comment 1\n"
+                  },
+                  "capabilities": {
+                    "comments": {
+                      "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": null,
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                      }
+                    },
+                    "edit": {
+                      "isEditRestricted": false,
+                      "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqIzCAK/capabilities/edit/is-editable-by-me",
+                      "lastEditedBy": null,
+                      "lastEditedDate": null,
+                      "latestRevision": 1,
+                      "relativeLastEditedDate": null
+                    },
+                    "status": {
+                      "feedEntityStatus": "Published",
+                      "isApprovableByMe": true
+                    },
+                    "upDownVote": {
+                      "downVoteCount": 0,
+                      "myVote": "None",
+                      "upVoteCount": 0
+                    },
+                    "verified": {
+                      "isVerifiableByMe": false,
+                      "isVerified": false,
+                      "isVerifiedByAnonymized": null,
+                      "lastVerifiedByUser": null,
+                      "lastVerifiedDate": null
+                    }
+                  },
+                  "clientInfo": null,
+                  "createdDate": "2025-05-20T18:14:14.000Z",
+                  "feedElement": {
+                    "id": "0D5al00000mfQSmCAM",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM"
+                  },
+                  "id": "0D7al000001PqIzCAK",
+                  "isDeleteRestricted": false,
+                  "likes": {
+                    "currentPageToken": null,
+                    "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqIzCAK/likes",
+                    "items": [],
+                    "nextPageToken": null,
+                    "nextPageUrl": null,
+                    "previousPageToken": null,
+                    "previousPageUrl": null,
+                    "total": 0
+                  },
+                  "likesMessage": null,
+                  "moderationFlags": null,
+                  "myLike": null,
+                  "parent": {
+                    "id": "006al000000WfCyAAK",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+                  },
+                  "relativeCreatedDate": "1h ago",
+                  "threadLevel": 0,
+                  "threadParentId": null,
+                  "type": "TextComment",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqIzCAK",
+                  "user": {
+                    "additionalLabel": null,
+                    "communityNickname": "bclifford",
+                    "companyName": "Salesforce",
+                    "displayName": "bclifford",
+                    "firstName": null,
+                    "id": "005al000000MFmnAAG",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": null,
+                    "motif": {
+                      "color": "1B96FF",
+                      "largeIconUrl": "/img/icon/profile64.png",
+                      "mediumIconUrl": "/img/icon/profile32.png",
+                      "smallIconUrl": "/img/icon/profile16.png",
+                      "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "bclifford",
+                    "outOfOffice": { "message": "" },
+                    "photo": {
+                      "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                      "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                      "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                      "photoVersionId": null,
+                      "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                      "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                    "userType": "Internal"
+                  }
+                },
+                {
+                  "body": {
+                    "isRichText": true,
+                    "messageSegments": [
+                      {
+                        "altText": null,
+                        "htmlTag": "p",
+                        "markupType": "Paragraph",
+                        "text": "",
+                        "type": "MarkupBegin",
+                        "url": null
+                      },
+                      { "text": "Test comment 2", "type": "Text" },
+                      {
+                        "htmlTag": "p",
+                        "markupType": "Paragraph",
+                        "text": "\n",
+                        "type": "MarkupEnd"
+                      }
+                    ],
+                    "text": "Test comment 2\n"
+                  },
+                  "capabilities": {
+                    "comments": {
+                      "page": {
+                        "currentPageToken": null,
+                        "currentPageUrl": null,
+                        "items": [],
+                        "nextPageToken": null,
+                        "nextPageUrl": null,
+                        "previousPageToken": null,
+                        "previousPageUrl": null,
+                        "total": 0
+                      }
+                    },
+                    "edit": {
+                      "isEditRestricted": false,
+                      "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqKbCAK/capabilities/edit/is-editable-by-me",
+                      "lastEditedBy": null,
+                      "lastEditedDate": null,
+                      "latestRevision": 1,
+                      "relativeLastEditedDate": null
+                    },
+                    "status": {
+                      "feedEntityStatus": "Published",
+                      "isApprovableByMe": true
+                    },
+                    "upDownVote": {
+                      "downVoteCount": 0,
+                      "myVote": "None",
+                      "upVoteCount": 0
+                    },
+                    "verified": {
+                      "isVerifiableByMe": false,
+                      "isVerified": false,
+                      "isVerifiedByAnonymized": null,
+                      "lastVerifiedByUser": null,
+                      "lastVerifiedDate": null
+                    }
+                  },
+                  "clientInfo": null,
+                  "createdDate": "2025-05-20T18:14:21.000Z",
+                  "feedElement": {
+                    "id": "0D5al00000mfQSmCAM",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM"
+                  },
+                  "id": "0D7al000001PqKbCAK",
+                  "isDeleteRestricted": false,
+                  "likes": {
+                    "currentPageToken": null,
+                    "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqKbCAK/likes",
+                    "items": [],
+                    "nextPageToken": null,
+                    "nextPageUrl": null,
+                    "previousPageToken": null,
+                    "previousPageUrl": null,
+                    "total": 0
+                  },
+                  "likesMessage": null,
+                  "moderationFlags": null,
+                  "myLike": null,
+                  "parent": {
+                    "id": "006al000000WfCyAAK",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+                  },
+                  "relativeCreatedDate": "1h ago",
+                  "threadLevel": 0,
+                  "threadParentId": null,
+                  "type": "TextComment",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqKbCAK",
+                  "user": {
+                    "additionalLabel": null,
+                    "communityNickname": "bclifford",
+                    "companyName": "Salesforce",
+                    "displayName": "bclifford",
+                    "firstName": null,
+                    "id": "005al000000MFmnAAG",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": null,
+                    "motif": {
+                      "color": "1B96FF",
+                      "largeIconUrl": "/img/icon/profile64.png",
+                      "mediumIconUrl": "/img/icon/profile32.png",
+                      "smallIconUrl": "/img/icon/profile16.png",
+                      "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "bclifford",
+                    "outOfOffice": { "message": "" },
+                    "photo": {
+                      "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                      "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                      "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                      "photoVersionId": null,
+                      "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                      "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                    "userType": "Internal"
+                  }
+                }
+              ],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 2
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 2 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-02-27T17:32:42.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 1
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2025-02-27T17:32:42.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "FF5D2D",
+                "largeIconUrl": "/img/icon/opportunities64.png",
+                "mediumIconUrl": "/img/icon/opportunities32.png",
+                "smallIconUrl": "/img/icon/opportunities16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "006al000000WfCyAAK",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+              },
+              "text": "Dickenson Mobile Generators",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            }
+          ],
+          "text": "Dickenson Mobile Generators — bclifford"
+        },
+        "id": "0D5al00000mfQSmCAM",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2025-05-20T18:14:21.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": {
+            "label": "Opportunity",
+            "labelPlural": "Opportunities"
+          },
+          "id": "006al000000WfCyAAK",
+          "motif": {
+            "color": "FF5D2D",
+            "largeIconUrl": "/img/icon/opportunities64.png",
+            "mediumIconUrl": "/img/icon/opportunities32.png",
+            "smallIconUrl": "/img/icon/opportunities16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Dickenson Mobile Generators",
+          "type": "Opportunity",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "February 27, 2025 at 9:32 AM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfZ2zCAE/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfZ2zCAE/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfZ2zCAE/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-02-27T17:32:29.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfZ2zCAE/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal00000MLJSnEAP",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Other",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    { "label": "Subject", "text": "Other", "type": "Picklist" },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Opportunity",
+                          "labelPlural": "Opportunities"
+                        },
+                        "id": "006al000000WfCyAAK",
+                        "motif": {
+                          "color": "FF5D2D",
+                          "largeIconUrl": "/img/icon/opportunities64.png",
+                          "mediumIconUrl": "/img/icon/opportunities32.png",
+                          "smallIconUrl": "/img/icon/opportunities16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Dickenson Mobile Generators",
+                        "type": "Opportunity",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+                      },
+                      "text": "Dickenson Mobile Generators",
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2025-02-27T17:32:29.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal00000MLJSnEAP",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000MLJSnEAP"
+              },
+              "text": "Other",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Other — bclifford created a task."
+        },
+        "id": "0D5al00000mfZ2zCAE",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2025-02-27T17:32:29.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal00000MLJSnEAP",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Other",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000MLJSnEAP"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "February 27, 2025 at 9:32 AM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfZ2zCAE",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "User17071736705475806901",
+          "companyName": "Salesforce",
+          "displayName": "User17071736705475806901",
+          "firstName": null,
+          "id": "005al000000MhazAAC",
+          "isActive": false,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "User17071736705475806901",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/ncsphoto/Crup1yvrueorRDjMfC4eg1j_KseDlLPzz-o3hZ9YqG-PheiFeqdDsvDtB2X7DS3C?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/729al000000M3Yj/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/729al000000M3Yj/M",
+            "photoVersionId": "729al000000M3YjAAK",
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/729al000000M3Yj/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/ncsphoto/Crup1yvrueorRDjMfC4eg1j_KseDlLPzz-o3hZ9YqG_1EU04v2LIjfx_OoG2b5YL?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MhazAAC/photo"
+          },
+          "reputation": null,
+          "title": "Manager, Technical Consultant",
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MhazAAC",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            { "text": "Hey there ", "type": "Text" },
+            {
+              "accessible": true,
+              "name": "bclifford",
+              "record": {
+                "additionalLabel": null,
+                "communityNickname": "bclifford",
+                "companyName": "Salesforce",
+                "displayName": "bclifford",
+                "firstName": null,
+                "id": "005al000000MFmnAAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "bclifford",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                "userType": "Internal"
+              },
+              "text": "@bclifford",
+              "type": "Mention"
+            },
+            { "text": "​, you should see this notification!", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "Hey there @bclifford​, you should see this notification!\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfU1hCAE/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfU1hCAE/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfU1hCAE/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 0 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": false,
+            "lastReadDateByMe": null,
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfU1hCAE/capabilities/read-by/items?pageSize=3",
+              "items": [
+                {
+                  "lastReadDateByUser": "2025-05-20T19:09:19.548Z",
+                  "user": {
+                    "additionalLabel": null,
+                    "communityNickname": "bclifford",
+                    "companyName": "Salesforce",
+                    "displayName": "bclifford",
+                    "firstName": null,
+                    "id": "005al000000MFmnAAG",
+                    "isActive": true,
+                    "isInThisCommunity": true,
+                    "lastName": null,
+                    "motif": {
+                      "color": "1B96FF",
+                      "largeIconUrl": "/img/icon/profile64.png",
+                      "mediumIconUrl": "/img/icon/profile32.png",
+                      "smallIconUrl": "/img/icon/profile16.png",
+                      "svgIconUrl": null
+                    },
+                    "mySubscription": null,
+                    "name": "bclifford",
+                    "outOfOffice": { "message": "" },
+                    "photo": {
+                      "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                      "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                      "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                      "photoVersionId": null,
+                      "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                      "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                    },
+                    "reputation": null,
+                    "title": null,
+                    "type": "User",
+                    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                    "userType": "Internal"
+                  }
+                }
+              ],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2025-02-27T17:04:09.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "FF5D2D",
+                "largeIconUrl": "/img/icon/opportunities64.png",
+                "mediumIconUrl": "/img/icon/opportunities32.png",
+                "smallIconUrl": "/img/icon/opportunities16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "006al000000WfCyAAK",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+              },
+              "text": "Dickenson Mobile Generators",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MhazAAC",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MhazAAC"
+              },
+              "text": "User17071736705475806901",
+              "type": "EntityLink"
+            },
+            { "text": " to Salesforce Only", "type": "Text" }
+          ],
+          "text": "Dickenson Mobile Generators — User17071736705475806901 to Salesforce Only"
+        },
+        "id": "0D5al00000mfU1hCAE",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2025-02-27T17:04:09.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": {
+            "label": "Opportunity",
+            "labelPlural": "Opportunities"
+          },
+          "id": "006al000000WfCyAAK",
+          "motif": {
+            "color": "FF5D2D",
+            "largeIconUrl": "/img/icon/opportunities64.png",
+            "mediumIconUrl": "/img/icon/opportunities32.png",
+            "smallIconUrl": "/img/icon/opportunities16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Dickenson Mobile Generators",
+          "type": "Opportunity",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/729al000000M3Yj/T",
+        "relativeCreatedDate": "February 27, 2025 at 9:04 AM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfU1hCAE",
+        "visibility": "InternalUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfTATCA2/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfTATCA2/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfTATCA2/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-02-27T16:59:16.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfTATCA2/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal00000MLCsoEAH",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Other",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    { "label": "Subject", "text": "Other", "type": "Picklist" },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Opportunity",
+                          "labelPlural": "Opportunities"
+                        },
+                        "id": "006al000000WfDJAA0",
+                        "motif": {
+                          "color": "FF5D2D",
+                          "largeIconUrl": "/img/icon/opportunities64.png",
+                          "mediumIconUrl": "/img/icon/opportunities32.png",
+                          "smallIconUrl": "/img/icon/opportunities16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Burlington Textiles Weaving Plant Generator",
+                        "type": "Opportunity",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDJAA0"
+                      },
+                      "text": "Burlington Textiles Weaving Plant Generator",
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2025-02-27T16:59:16.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal00000MLCsoEAH",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000MLCsoEAH"
+              },
+              "text": "Other",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Other — bclifford created a task."
+        },
+        "id": "0D5al00000mfTATCA2",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2025-02-27T16:59:16.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal00000MLCsoEAH",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Other",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal00000MLCsoEAH"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "February 27, 2025 at 8:59 AM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfTATCA2",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            { "text": "Trying to ", "type": "Text" },
+            {
+              "accessible": true,
+              "name": "bclifford",
+              "record": {
+                "additionalLabel": null,
+                "communityNickname": "bclifford",
+                "companyName": "Salesforce",
+                "displayName": "bclifford",
+                "firstName": null,
+                "id": "005al000000MFmnAAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "bclifford",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                "userType": "Internal"
+              },
+              "text": "@bclifford",
+              "type": "Mention"
+            },
+            { "text": "​ mention myself", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "Trying to @bclifford​ mention myself\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfLZaCAM/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfLZaCAM/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfLZaCAM/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 0 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2025-02-27T16:58:51.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfLZaCAM/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2025-02-27T16:58:51.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "FF5D2D",
+                "largeIconUrl": "/img/icon/opportunities64.png",
+                "mediumIconUrl": "/img/icon/opportunities32.png",
+                "smallIconUrl": "/img/icon/opportunities16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "006al000000WfDJAA0",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDJAA0"
+              },
+              "text": "Burlington Textiles Weaving Plant Generator",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            }
+          ],
+          "text": "Burlington Textiles Weaving Plant Generator — bclifford"
+        },
+        "id": "0D5al00000mfLZaCAM",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2025-02-27T16:58:51.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": {
+            "label": "Opportunity",
+            "labelPlural": "Opportunities"
+          },
+          "id": "006al000000WfDJAA0",
+          "motif": {
+            "color": "FF5D2D",
+            "largeIconUrl": "/img/icon/opportunities64.png",
+            "mediumIconUrl": "/img/icon/opportunities32.png",
+            "smallIconUrl": "/img/icon/opportunities16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Burlington Textiles Weaving Plant Generator",
+          "type": "Opportunity",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDJAA0"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "February 27, 2025 at 8:58 AM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfLZaCAM",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            {
+              "accessible": true,
+              "name": "bclifford",
+              "record": {
+                "additionalLabel": null,
+                "communityNickname": "bclifford",
+                "companyName": "Salesforce",
+                "displayName": "bclifford",
+                "firstName": null,
+                "id": "005al000000MFmnAAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "bclifford",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                "userType": "Internal"
+              },
+              "text": "@bclifford",
+              "type": "Mention"
+            },
+            { "text": "​ hoping to get this notification", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "@bclifford​ hoping to get this notification\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYQVdCAP/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYQVdCAP/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYQVdCAP/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-07-09T20:16:19.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYQVdCAP/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2024-07-09T20:16:19.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "FF5D2D",
+                "largeIconUrl": "/img/icon/opportunities64.png",
+                "mediumIconUrl": "/img/icon/opportunities32.png",
+                "smallIconUrl": "/img/icon/opportunities16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "006al000000WfDHAA0",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDHAA0"
+              },
+              "text": "Express Logistics SLA",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " to Salesforce Only", "type": "Text" }
+          ],
+          "text": "Express Logistics SLA — bclifford to Salesforce Only"
+        },
+        "id": "0D5al00000IYQVdCAP",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2024-07-09T20:16:19.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": {
+            "label": "Opportunity",
+            "labelPlural": "Opportunities"
+          },
+          "id": "006al000000WfDHAA0",
+          "motif": {
+            "color": "FF5D2D",
+            "largeIconUrl": "/img/icon/opportunities64.png",
+            "mediumIconUrl": "/img/icon/opportunities32.png",
+            "smallIconUrl": "/img/icon/opportunities16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Express Logistics SLA",
+          "type": "Opportunity",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDHAA0"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "July 9, 2024 at 1:16 PM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYQVdCAP",
+        "visibility": "InternalUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYcYRCA1/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYcYRCA1/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYcYRCA1/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-07-09T20:14:04.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYcYRCA1/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal000004y7YzEAI",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Test",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    { "label": "Subject", "text": "Test", "type": "Picklist" },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Opportunity",
+                          "labelPlural": "Opportunities"
+                        },
+                        "id": "006al000000WfDHAA0",
+                        "motif": {
+                          "color": "FF5D2D",
+                          "largeIconUrl": "/img/icon/opportunities64.png",
+                          "mediumIconUrl": "/img/icon/opportunities32.png",
+                          "smallIconUrl": "/img/icon/opportunities16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Express Logistics SLA",
+                        "type": "Opportunity",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDHAA0"
+                      },
+                      "text": "Express Logistics SLA",
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2024-07-09T20:14:04.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal000004y7YzEAI",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000004y7YzEAI"
+              },
+              "text": "Test",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Test — bclifford created a task."
+        },
+        "id": "0D5al00000IYcYRCA1",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2024-07-09T20:14:04.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal000004y7YzEAI",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Test",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000004y7YzEAI"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "July 9, 2024 at 1:14 PM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IYcYRCA1",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IXWd9CAH/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IXWd9CAH/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IXWd9CAH/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-07-09T20:13:33.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IXWd9CAH/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal000004xwP6EAI",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Testing Notification",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    {
+                      "label": "Subject",
+                      "text": "Testing Notification",
+                      "type": "Picklist"
+                    },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Opportunity",
+                          "labelPlural": "Opportunities"
+                        },
+                        "id": "006al000000WfDHAA0",
+                        "motif": {
+                          "color": "FF5D2D",
+                          "largeIconUrl": "/img/icon/opportunities64.png",
+                          "mediumIconUrl": "/img/icon/opportunities32.png",
+                          "smallIconUrl": "/img/icon/opportunities16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Express Logistics SLA",
+                        "type": "Opportunity",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfDHAA0"
+                      },
+                      "text": "Express Logistics SLA",
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2024-07-09T20:13:33.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal000004xwP6EAI",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000004xwP6EAI"
+              },
+              "text": "Testing Notification",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Testing Notification — bclifford created a task."
+        },
+        "id": "0D5al00000IXWd9CAH",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2024-07-09T20:13:33.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal000004xwP6EAI",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Testing Notification",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000004xwP6EAI"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "July 9, 2024 at 1:13 PM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000IXWd9CAH",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000BJsw1CAD/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000BJsw1CAD/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000BJsw1CAD/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 0 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-04-29T20:39:39.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000BJsw1CAD/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "500al000007BzaPAAS",
+              "motif": {
+                "color": "FF538A",
+                "largeIconUrl": "/img/icon/cases64.png",
+                "mediumIconUrl": "/img/icon/cases32.png",
+                "smallIconUrl": "/img/icon/cases16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "00001026",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    {
+                      "label": "Subject",
+                      "text": "sdasdfasdf",
+                      "type": "Text"
+                    },
+                    {
+                      "label": "Priority",
+                      "text": "Medium",
+                      "type": "Picklist"
+                    },
+                    { "label": "Status", "text": "New", "type": "Picklist" },
+                    {
+                      "label": "Case Number",
+                      "text": "00001026",
+                      "type": "Text"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Case",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2024-04-29T20:39:39.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "FF538A",
+                "largeIconUrl": "/img/icon/cases64.png",
+                "mediumIconUrl": "/img/icon/cases32.png",
+                "smallIconUrl": "/img/icon/cases16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "500al000007BzaPAAS",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/500al000007BzaPAAS"
+              },
+              "text": "00001026",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a case.", "type": "Text" }
+          ],
+          "text": "00001026 — bclifford created a case."
+        },
+        "id": "0D5al00000BJsw1CAD",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2024-04-29T20:39:39.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Case", "labelPlural": "Cases" },
+          "id": "500al000007BzaPAAS",
+          "motif": {
+            "color": "FF538A",
+            "largeIconUrl": "/img/icon/cases64.png",
+            "mediumIconUrl": "/img/icon/cases32.png",
+            "smallIconUrl": "/img/icon/cases16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "00001026",
+          "type": "Case",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/500al000007BzaPAAS"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "April 29, 2024 at 1:39 PM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000BJsw1CAD",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": {
+          "isRichText": true,
+          "messageSegments": [
+            {
+              "altText": null,
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "",
+              "type": "MarkupBegin",
+              "url": null
+            },
+            { "text": "Heyo ", "type": "Text" },
+            {
+              "accessible": true,
+              "name": "bclifford",
+              "record": {
+                "additionalLabel": null,
+                "communityNickname": "bclifford",
+                "companyName": "Salesforce",
+                "displayName": "bclifford",
+                "firstName": null,
+                "id": "005al000000MFmnAAG",
+                "isActive": true,
+                "isInThisCommunity": true,
+                "lastName": null,
+                "motif": {
+                  "color": "1B96FF",
+                  "largeIconUrl": "/img/icon/profile64.png",
+                  "mediumIconUrl": "/img/icon/profile32.png",
+                  "smallIconUrl": "/img/icon/profile16.png",
+                  "svgIconUrl": null
+                },
+                "mySubscription": null,
+                "name": "bclifford",
+                "outOfOffice": { "message": "" },
+                "photo": {
+                  "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+                  "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+                  "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+                  "photoVersionId": null,
+                  "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+                  "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+                  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+                },
+                "reputation": null,
+                "title": null,
+                "type": "User",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+                "userType": "Internal"
+              },
+              "text": "@bclifford",
+              "type": "Mention"
+            },
+            { "text": "​ hoping this triggers a notification", "type": "Text" },
+            {
+              "htmlTag": "p",
+              "markupType": "Paragraph",
+              "text": "\n",
+              "type": "MarkupEnd"
+            }
+          ],
+          "text": "Heyo @bclifford​ hoping this triggers a notification\n"
+        },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004jzzXCAQ/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004jzzXCAQ/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004jzzXCAQ/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-03-11T20:43:23.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004jzzXCAQ/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": {
+          "applicationName": "Salesforce CLI",
+          "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+        },
+        "createdDate": "2024-03-11T20:43:23.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "06A59A",
+                "largeIconUrl": "/img/icon/leads64.png",
+                "mediumIconUrl": "/img/icon/leads32.png",
+                "smallIconUrl": "/img/icon/leads16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Qal000000ZBbwEAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Qal000000ZBbwEAG"
+              },
+              "text": "Kristen Akin, Aethna Home Products",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " to Salesforce Only", "type": "Text" }
+          ],
+          "text": "Kristen Akin, Aethna Home Products — bclifford to Salesforce Only"
+        },
+        "id": "0D5al000004jzzXCAQ",
+        "isDeleteRestricted": false,
+        "isSharable": false,
+        "modifiedDate": "2024-03-11T20:43:23.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Lead", "labelPlural": "Leads" },
+          "id": "00Qal000000ZBbwEAG",
+          "motif": {
+            "color": "06A59A",
+            "largeIconUrl": "/img/icon/leads64.png",
+            "mediumIconUrl": "/img/icon/leads32.png",
+            "smallIconUrl": "/img/icon/leads16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Kristen Akin, Aethna Home Products",
+          "type": "Lead",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Qal000000ZBbwEAG"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "March 11, 2024 at 1:43 PM",
+        "type": "TextPost",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004jzzXCAQ",
+        "visibility": "InternalUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO1pCAE/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO1pCAE/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO1pCAE/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-03-11T20:42:15.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO1pCAE/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Ual000000de7FEAQ",
+              "motif": {
+                "color": "CB65FF",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/calendar16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Reminder",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    {
+                      "label": "Subject",
+                      "text": "Reminder",
+                      "type": "Picklist"
+                    },
+                    { "label": "Location", "text": null, "type": "Text" },
+                    {
+                      "dateValue": "2024-03-11T20:45:00.000Z",
+                      "label": "Start",
+                      "text": "3/11/2024, 1:45 PM",
+                      "type": "DateTime"
+                    },
+                    {
+                      "dateValue": "2024-03-11T21:45:00.000Z",
+                      "label": "End",
+                      "text": "3/11/2024, 2:45 PM",
+                      "type": "DateTime"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Event",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": {
+          "applicationName": "Salesforce CLI",
+          "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+        },
+        "createdDate": "2024-03-11T20:42:15.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "CB65FF",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/calendar16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Ual000000de7FEAQ",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Ual000000de7FEAQ"
+              },
+              "text": "Reminder",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created an event.", "type": "Text" }
+          ],
+          "text": "Reminder — bclifford created an event."
+        },
+        "id": "0D5al000004kO1pCAE",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2024-03-11T20:42:15.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Event", "labelPlural": "Events" },
+          "id": "00Ual000000de7FEAQ",
+          "motif": {
+            "color": "CB65FF",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/calendar16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Reminder",
+          "type": "Event",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Ual000000de7FEAQ"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "March 11, 2024 at 1:42 PM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO1pCAE",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO0DCAU/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO0DCAU/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO0DCAU/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-03-11T20:41:37.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO0DCAU/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal000000zjQ1EAI",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Do this today",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    {
+                      "label": "Subject",
+                      "text": "Do this today",
+                      "type": "Picklist"
+                    },
+                    {
+                      "label": "Name",
+                      "reference": {
+                        "entityLabel": {
+                          "label": "Lead",
+                          "labelPlural": "Leads"
+                        },
+                        "id": "00Qal000000ZBbwEAG",
+                        "motif": {
+                          "color": "06A59A",
+                          "largeIconUrl": "/img/icon/leads64.png",
+                          "mediumIconUrl": "/img/icon/leads32.png",
+                          "smallIconUrl": "/img/icon/leads16.png",
+                          "svgIconUrl": null
+                        },
+                        "mySubscription": null,
+                        "name": "Kristen Akin, Aethna Home Products",
+                        "type": "Lead",
+                        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Qal000000ZBbwEAG"
+                      },
+                      "text": "Kristen Akin, Aethna Home Products",
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": {
+          "applicationName": "Salesforce CLI",
+          "applicationUrl": "https://developer.salesforce.com/tools/sfdxcli"
+        },
+        "createdDate": "2024-03-11T20:41:37.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal000000zjQ1EAI",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000000zjQ1EAI"
+              },
+              "text": "Do this today",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Do this today — bclifford created a task."
+        },
+        "id": "0D5al000004kO0DCAU",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2024-03-11T20:41:37.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal000000zjQ1EAI",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Do this today",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000000zjQ1EAI"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "March 11, 2024 at 1:41 PM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000004kO0DCAU",
+        "visibility": "AllUsers"
+      },
+      {
+        "actor": {
+          "additionalLabel": null,
+          "communityNickname": "bclifford",
+          "companyName": "Salesforce",
+          "displayName": "bclifford",
+          "firstName": null,
+          "id": "005al000000MFmnAAG",
+          "isActive": true,
+          "isInThisCommunity": true,
+          "lastName": null,
+          "motif": {
+            "color": "1B96FF",
+            "largeIconUrl": "/img/icon/profile64.png",
+            "mediumIconUrl": "/img/icon/profile32.png",
+            "smallIconUrl": "/img/icon/profile16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "bclifford",
+          "outOfOffice": { "message": "" },
+          "photo": {
+            "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+            "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+            "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+            "photoVersionId": null,
+            "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+            "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+            "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+          },
+          "reputation": null,
+          "title": null,
+          "type": "User",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+          "userType": "Internal"
+        },
+        "body": { "isRichText": null, "messageSegments": [], "text": null },
+        "capabilities": {
+          "associatedActions": { "platformActionGroups": [] },
+          "bookmarks": { "isBookmarkedByCurrentUser": false },
+          "chatterLikes": {
+            "isLikedByCurrentUser": false,
+            "likesMessage": null,
+            "myLike": null,
+            "page": {
+              "currentPageToken": 0,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000001ZCH3CAO/capabilities/chatter-likes/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "close": { "canContextUserUpdateIsClosed": true, "isClosed": false },
+          "comments": {
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000001ZCH3CAO/capabilities/comments/items",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "edit": {
+            "isEditRestricted": false,
+            "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000001ZCH3CAO/capabilities/edit/is-editable-by-me",
+            "lastEditedBy": null,
+            "lastEditedDate": null,
+            "latestRevision": 1,
+            "relativeLastEditedDate": null
+          },
+          "interactions": { "count": 1 },
+          "mute": { "isMutedByMe": false },
+          "readBy": {
+            "isReadByMe": true,
+            "lastReadDateByMe": "2024-02-16T00:23:50.000Z",
+            "page": {
+              "currentPageToken": null,
+              "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000001ZCH3CAO/capabilities/read-by/items?pageSize=3",
+              "items": [],
+              "nextPageToken": null,
+              "nextPageUrl": null,
+              "previousPageToken": null,
+              "previousPageUrl": null,
+              "total": 0
+            }
+          },
+          "recordSnapshot": {
+            "recordView": {
+              "id": "00Tal000000TGfhEAG",
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "mySubscription": null,
+              "name": "Call Mr Jones",
+              "sections": [
+                {
+                  "columnCount": 1,
+                  "columnOrder": "TopDown",
+                  "fields": [
+                    {
+                      "label": "Subject",
+                      "text": "Call Mr Jones",
+                      "type": "Picklist"
+                    },
+                    {
+                      "label": "Name",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    },
+                    {
+                      "label": "Related To",
+                      "reference": null,
+                      "text": null,
+                      "type": "Reference"
+                    }
+                  ],
+                  "heading": null,
+                  "isCollapsible": null
+                }
+              ],
+              "type": "Task",
+              "url": null
+            }
+          },
+          "status": {
+            "feedEntityStatus": "Published",
+            "isApprovableByMe": true
+          },
+          "topics": { "canAssignTopics": true, "items": [] },
+          "upDownVote": {
+            "downVoteCount": 0,
+            "myVote": "None",
+            "upVoteCount": 0
+          }
+        },
+        "clientInfo": null,
+        "createdDate": "2024-02-16T00:23:50.000Z",
+        "event": false,
+        "feedElementType": "FeedItem",
+        "hasVerifiedComment": false,
+        "header": {
+          "isRichText": null,
+          "messageSegments": [
+            {
+              "motif": {
+                "color": "3BA755",
+                "largeIconUrl": "/img/icon/home64.png",
+                "mediumIconUrl": "/img/icon/home32.png",
+                "smallIconUrl": "/img/icon/tasks16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "00Tal000000TGfhEAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000000TGfhEAG"
+              },
+              "text": "Call Mr Jones",
+              "type": "EntityLink"
+            },
+            { "text": " — ", "type": "Text" },
+            {
+              "motif": {
+                "color": "1B96FF",
+                "largeIconUrl": "/img/icon/profile64.png",
+                "mediumIconUrl": "/img/icon/profile32.png",
+                "smallIconUrl": "/img/icon/profile16.png",
+                "svgIconUrl": null
+              },
+              "reference": {
+                "id": "005al000000MFmnAAG",
+                "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+              },
+              "text": "bclifford",
+              "type": "EntityLink"
+            },
+            { "text": " created a task.", "type": "Text" }
+          ],
+          "text": "Call Mr Jones — bclifford created a task."
+        },
+        "id": "0D5al000001ZCH3CAO",
+        "isDeleteRestricted": true,
+        "isSharable": false,
+        "modifiedDate": "2024-02-16T00:23:50.000Z",
+        "originalFeedItem": null,
+        "originalFeedItemActor": null,
+        "parent": {
+          "entityLabel": { "label": "Task", "labelPlural": "Tasks" },
+          "id": "00Tal000000TGfhEAG",
+          "motif": {
+            "color": "3BA755",
+            "largeIconUrl": "/img/icon/home64.png",
+            "mediumIconUrl": "/img/icon/home32.png",
+            "smallIconUrl": "/img/icon/tasks16.png",
+            "svgIconUrl": null
+          },
+          "mySubscription": null,
+          "name": "Call Mr Jones",
+          "type": "Task",
+          "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/00Tal000000TGfhEAG"
+        },
+        "photoUrl": "/sfsites/c/profilephoto/005/T",
+        "relativeCreatedDate": "February 15, 2024 at 4:23 PM",
+        "type": "CreateRecordEvent",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al000001ZCH3CAO",
+        "visibility": "AllUsers"
+      }
+    ],
+    "isModifiedToken": null,
+    "isModifiedUrl": null,
+    "nextPageToken": null,
+    "nextPageUrl": null,
+    "searchQueryId": null,
+    "updatesToken": "2:1747343626000",
+    "updatesUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feeds/news/005al000000MFmnAAG/feed-elements?updatedSince=2%3A1747343626000"
+  },
+  "mapping": {
+    "003al000000XgDRAA0": "User"
+  }
+}

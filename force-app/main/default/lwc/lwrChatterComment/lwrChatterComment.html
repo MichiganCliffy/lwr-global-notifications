@@ -1,0 +1,4 @@
+<template>
+  <c-lwr-chatter-comment-read if:false={isEdit} item={item} ondelete={handleDelete} onedit={handleEdit}></c-lwr-chatter-comment-read>
+  <c-lwr-chatter-comment-edit if:true={isEdit} item={item} onupdate={handleUpdate} oncancel={handleCancel}></c-lwr-chatter-comment-edit>
+</template>

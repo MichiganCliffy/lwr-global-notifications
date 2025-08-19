@@ -1,0 +1,18 @@
+{
+  "communityId": "all",
+  "count": 1,
+  "id": "8090033717f90ab31a301975d0a45b28",
+  "image": "https://unittest.develop.my.site.com/img/userprofile/default_profile_45_v2.png",
+  "lastModified": "2025-05-22T21:57:52.565Z",
+  "messageBody": "I did get this! How about you?\n",
+  "messageTitle": "a_young commented on your post",
+  "mostRecentActivityDate": "2025-05-28T16:57:05.347Z",
+  "organizationId": "00Dal000000hztFEAQ",
+  "read": false,
+  "recipientId": "005al000000MFmnAAG",
+  "seen": true,
+  "target": "0D5al00000r2g8tCAA",
+  "type": "chatter_comment_on_post",
+  "url": "/connect/notifications/8090033717f90ab31a301975d0a45b28",
+  "objectApiName": "FeedItem"
+}

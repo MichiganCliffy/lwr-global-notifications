@@ -1,0 +1,133 @@
+{
+  "body": {
+    "isRichText": true,
+    "messageSegments": [
+      {
+        "altText": null,
+        "htmlTag": "p",
+        "markupType": "Paragraph",
+        "text": "",
+        "type": "MarkupBegin",
+        "url": null
+      },
+      { "text": "Test comment 1", "type": "Text" },
+      {
+        "htmlTag": "p",
+        "markupType": "Paragraph",
+        "text": "\n",
+        "type": "MarkupEnd"
+      }
+    ],
+    "text": "Test comment 1\n"
+  },
+  "capabilities": {
+    "comments": {
+      "page": {
+        "currentPageToken": null,
+        "currentPageUrl": null,
+        "items": [],
+        "nextPageToken": null,
+        "nextPageUrl": null,
+        "previousPageToken": null,
+        "previousPageUrl": null,
+        "total": 0
+      }
+    },
+    "edit": {
+      "isEditRestricted": false,
+      "isEditableByMeUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqIzCAK/capabilities/edit/is-editable-by-me",
+      "lastEditedBy": null,
+      "lastEditedDate": null,
+      "latestRevision": 1,
+      "relativeLastEditedDate": null
+    },
+    "status": {
+      "feedEntityStatus": "Published",
+      "isApprovableByMe": true
+    },
+    "upDownVote": {
+      "downVoteCount": 0,
+      "myVote": "None",
+      "upVoteCount": 0
+    },
+    "verified": {
+      "isVerifiableByMe": false,
+      "isVerified": false,
+      "isVerifiedByAnonymized": null,
+      "lastVerifiedByUser": null,
+      "lastVerifiedDate": null
+    }
+  },
+  "clientInfo": null,
+  "createdDate": "2025-05-20T18:14:14.000Z",
+  "feedElement": {
+    "id": "0D5al00000mfQSmCAM",
+    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/feed-elements/0D5al00000mfQSmCAM"
+  },
+  "id": "0D7al000001PqIzCAK",
+  "isDeleteRestricted": false,
+  "likes": {
+    "currentPageToken": null,
+    "currentPageUrl": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqIzCAK/likes",
+    "items": [],
+    "nextPageToken": null,
+    "nextPageUrl": null,
+    "previousPageToken": null,
+    "previousPageUrl": null,
+    "total": 0
+  },
+  "likesMessage": {
+    "isRichText": null,
+    "messageSegments": [{ "text": "You like this.", "type": "Text" }],
+    "text": "You like this."
+  },
+  "moderationFlags": null,
+  "myLike": {
+    "id": "0I0al000000kM3xCAE",
+    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/likes/0I0al000000kM3xCAE"
+  },
+  "parent": {
+    "id": "006al000000WfCyAAK",
+    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/006al000000WfCyAAK"
+  },
+  "relativeCreatedDate": "1h ago",
+  "threadLevel": 0,
+  "threadParentId": null,
+  "type": "TextComment",
+  "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/comments/0D7al000001PqIzCAK",
+  "user": {
+    "additionalLabel": null,
+    "communityNickname": "bclifford",
+    "companyName": "Salesforce",
+    "displayName": "bclifford",
+    "firstName": null,
+    "id": "005al000000MFmnAAG",
+    "isActive": true,
+    "isInThisCommunity": true,
+    "lastName": null,
+    "motif": {
+      "color": "1B96FF",
+      "largeIconUrl": "/img/icon/profile64.png",
+      "mediumIconUrl": "/img/icon/profile32.png",
+      "smallIconUrl": "/img/icon/profile16.png",
+      "svgIconUrl": null
+    },
+    "mySubscription": null,
+    "name": "bclifford",
+    "outOfOffice": { "message": "" },
+    "photo": {
+      "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+      "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+      "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+      "photoVersionId": null,
+      "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+      "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+    },
+    "reputation": null,
+    "title": null,
+    "type": "User",
+    "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+    "userType": "Internal"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "communityId": "all",
+  "count": 1,
+  "id": "ab19d2daaec76b020b4ec514147e03c3",
+  "image": "/images/AnnouncementIcon.svg",
+  "lastModified": "2025-02-10T12:19:46.902Z",
+  "messageBody": "Priority Notification",
+  "messageTitle": "Lead1",
+  "mostRecentActivityDate": "2025-02-13T21:46:06.613Z",
+  "objectApiName": "Lead",
+  "organizationId": "00D6u0000000Q8fEAE",
+  "read": false,
+  "recipientId": "0056u000003TaLCAA0",
+  "seen": true,
+  "target": "00Q6u000004tkgbEAA",
+  "type": "0ML59000000CbazGAC",
+  "url": "/connect/notifications/ab19d2daaec76b020b4ec514147e03c3"
+}

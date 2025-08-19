@@ -1,0 +1,10 @@
+{
+  "action": "done",
+  "files": [
+    {
+      "id": "123",
+      "name": "test1.txt",
+      "contents": "text/plain,bG9ydW0gaXBzdW0="
+    }
+  ]
+}

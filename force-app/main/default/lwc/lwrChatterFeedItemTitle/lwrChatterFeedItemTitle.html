@@ -1,0 +1,8 @@
+<template>
+  <p>
+    <template for:each={items} for:item="item">
+      <lightning-button key={item.id} lwc:if={item.isLink} variant="base" label={item.label} title={item.label} onclick={handleClick} data-position={item.id}></lightning-button>
+      <span key={item.id} lwc:else>{item.label}</span>
+    </template>
+  </p>
+</template>

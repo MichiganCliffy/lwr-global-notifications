@@ -1,0 +1,11 @@
+{
+    "type":"standard__recordPage",
+    "attributes":{
+       "recordId":"006al000000WfCyAAK",
+       "objectApiName": "Opportunity",
+       "actionName":"view"
+    },
+    "state":{
+       "recordName":"Yaba daba do"
+    }
+ }

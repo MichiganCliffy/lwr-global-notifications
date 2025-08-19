@@ -1,0 +1,25 @@
+<template>
+  <section lwc:if={isVisible} class={cssClasses} role="dialog">
+    <header class="notifications__header">
+      <h1>{labels.Title}</h1>
+      <div lwc:if={hasUnread}>
+        <a tabindex="0" class="notifications-markread" onclick={handleMarkAllAsRead}>{labels.MarkAsRead}</a>
+      </div>
+      <lightning-button-icon class="notifications-close" title={labels.Close} variant="bare" icon-name="utility:close" alternative-text={labels.Close} onclick={handleClose} aria-label={labels.Close} aria-live="polite"></lightning-button-icon>
+    </header>
+    <div lwc:if={isLoading} class="notifications__list">
+      <lightning-spinner alternative-text={labels.Loading} size="medium"></lightning-spinner>
+    </div>
+    <div lwc:else class="notifications__list" onscroll={handleScroll}>
+      <ul lwc:if={hasNotifications}>
+        <template for:each={notifications} for:item="notification">
+          <li key={notification.id}><c-lwr-global-notifications-item notification={notification}></c-lwr-global-notifications-item></li>
+        </template>
+      </ul>
+      <div lwc:else class="notifications__empty">
+        {labels.NoNotifications}
+      </div>
+      <div class="trap" tabindex="0"></div>
+    </div>
+  </section>
+</template>

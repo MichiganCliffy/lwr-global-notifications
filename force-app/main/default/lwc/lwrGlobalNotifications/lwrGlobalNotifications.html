@@ -1,0 +1,6 @@
+<template>
+  <div tabindex="-1" class="slds-dropdown-trigger slds-dropdown-trigger_click slds-is-open">
+    <c-lwr-global-notifications-icon unseen={unseen} ontoggle={handleToggle}></c-lwr-global-notifications-icon>
+    <c-lwr-global-notifications-panel notifications={notifications} left-align={leftAlign} onclose={handleClose} onmarkallread={handleMarkAllRead} onnavigation={handleNavigation} onloadmore={handleLoadMore}></c-lwr-global-notifications-panel>
+  </div>
+</template>

@@ -1,0 +1,61 @@
+section.notifications {
+  width: 27rem;
+  right: -0.5rem;
+  top: 2rem;
+}
+
+section.notifications.slds-dropdown_right {
+  right: -0.75rem;
+}
+
+section.notifications.slds-dropdown_left {
+  left: -0.75rem;
+}
+
+header.notifications__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
+  padding: 1rem 0.25rem 1rem 1.5rem;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: var(--dxp-s-dropdown-color-border, gray);
+}
+
+header.notifications__header h1 {
+  flex-grow: 2;
+  font-size: var(--dxp-s-text-heading-small-font-size, 1.125rem);
+  font-weight: var(--dxp-s-text-heading-small-font-weight, 300);
+  line-height: var(--dxp-s-text-heading-small-line-height, 1.25);
+}
+
+header.notifications__header .notifications-markread {
+  font-size: var(--dxp-s-body-small-font-size, 0.75rem);
+  font-weight: var(--dxp-s-body-small-font-weight, 400);
+}
+
+header.notifications__header lightning-button-icon {
+  margin-left: 0.25rem;
+}
+
+div.notifications__list {
+  position: relative;
+  overflow: auto;
+  min-height: 4rem;
+  max-height: 530px;
+  border-bottom-left-radius: var(--slds-g-radius-border-2, var(--lwc-borderRadiusMedium, 0.25rem));
+  border-bottom-right-radius: var(--slds-g-radius-border-2, var(--lwc-borderRadiusMedium, 0.25rem));
+}
+
+.notifications__empty {
+  font-size: var(--dxp-s-body-small-font-size, 0.75rem);
+  font-weight: var(--dxp-s-body-small-font-weight, 400);
+  line-height: var(--dxp-s-body-small-line-height, 1.25);
+}
+
+.notifications__list:has(.notifications__empty) {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

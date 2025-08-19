@@ -1,0 +1,15 @@
+<template>
+  <div class="slds-feed">
+    <c-lwr-chatter-feed-actions sort-order={sortOrder} onsearch={handleSearch} onsort={handleSort}></c-lwr-chatter-feed-actions>
+    <ul class="slds-feed__list">
+      <template for:each={items} for:item="item">
+        <li key={item.id} class="slds-feed__item">
+          <c-lwr-chatter-feed-item item={item} chatter-post-page={chatterPostPage} onupdate={handleUpdate}></c-lwr-chatter-feed-item>
+        </li>
+      </template>
+    </ul>
+    <div lwc:if={hasMore} class="feed-load-more slds-align_absolute-center">
+      <lightning-button label="Load More" onclick={handleLoadMore}></lightning-button>
+    </div>
+  </div>
+</template>

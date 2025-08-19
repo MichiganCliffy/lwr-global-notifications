@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningMessageChannel xmlns="http://soap.sforce.com/2006/04/metadata">
+    <masterLabel>LwrChatterFeedNotification</masterLabel>
+    <description>A Lightning Message Channel to broadcast chatter details to other chatter components on the page.</description>
+    <isExposed>true</isExposed>
+    <lightningMessageFields>
+        <fieldName>action</fieldName>
+        <description>Any action that needs to be taken.</description>
+    </lightningMessageFields>
+</LightningMessageChannel>

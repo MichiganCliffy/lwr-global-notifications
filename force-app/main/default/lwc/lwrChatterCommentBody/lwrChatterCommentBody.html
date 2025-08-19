@@ -1,0 +1,9 @@
+<template>
+  <lightning-formatted-rich-text value={message}></lightning-formatted-rich-text>
+  <div class="comment-attachment-preview" lwc:if={hasAttachement}>
+    <a href={filePreview.download} target="_blank" title="Click to download"><img src={filePreview.src} title={filePreview.title} alt={filePreview.alt} /></a>
+  </div>
+  <div class="comment-attachment-processing" lwc:if={isAttachmentProcessing}>
+    <a href={filePreview.download} target="_blank" title="Click to download">{filePreview.title}</a>
+  </div>
+</template>

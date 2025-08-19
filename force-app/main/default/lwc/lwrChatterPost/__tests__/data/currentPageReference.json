@@ -1,0 +1,11 @@
+{
+    "type":"standard__recordPage",
+    "attributes":{
+       "recordId":"0D5al00000r2g8tCAA",
+       "objectApiName": "Feed Post",
+       "actionName":"view"
+    },
+    "state":{
+       "recordName":"Yaba daba do"
+    }
+ }

@@ -1,0 +1,10 @@
+<template>
+  <div class="slds-feed__actions">
+    <div class="slds-feed-sort">
+      <lightning-combobox label="Sort By" variant="label-stacked" value={sortOrder} options={sortOptions} onchange={handleSort}></lightning-combobox>
+    </div>
+    <div class="slds-feed-search">
+      <lightning-input type="search" variant="label-hidden" placeholder="Search this feed..." oncommit={handleSearch} ></lightning-input>
+    </div>
+  </div>
+</template>

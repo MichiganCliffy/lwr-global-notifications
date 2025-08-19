@@ -1,0 +1,33 @@
+<template>
+  <lightning-modal-header label="Edit Post"></lightning-modal-header>
+  <lightning-modal-body>
+    <div class="slds-feed slds-publisher slds-is-active">
+      <div lwc:if={saving} class="saving-post">
+        <lightning-spinner variant="brand" alternative-text="Saving..." size="large"></lightning-spinner>
+      </div>
+      <lightning-input-rich-text variant="bottom-toolbar" label="Update Post" disabled-categories="FORMAT_FONT" placeholder="Update post..." value={comment} onchange={handlePostChange}></lightning-input-rich-text>
+      <c-lwr-chatter-mention-lookup  mention-map={mentions} onselect={handleMentionSelect}></c-lwr-chatter-mention-lookup>
+      <div class="slds-publisher__controls">
+        <div class="slds-publisher-attributes">
+          <div lwc:if={showAttachment} class="slds-publisher-attachments">
+            <lightning-button-icon icon-name="utility:attach" class="add-attachment" size="small" variant="bare" alternative-text="Upload a file" title="Upload a file" onclick={handleFileAttach}></lightning-button-icon>
+          </div>
+          <div lwc:if={hasAttachments} class="slds-publisher-attachments">
+            <div class="slds-text-body_small slds-text-color_error">You have too many attachments. Only {attachmentLimit} attachments supported.</div>
+            <ul>
+              <template for:each={files} for:item="file">
+                <li key={file.id}>
+                  <lightning-button-icon variant="bare" class="remove-attachment" icon-name="utility:close" alternative-text="Remove File" title="Remove File" data-id={file.id} onclick={handleFileRemove}></lightning-button-icon>
+                  <div class="slds-text-body_small">{file.name}</div>
+                </li>
+              </template>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </lightning-modal-body>
+  <lightning-modal-footer>
+    <lightning-button variant="brand" label="Save" title="Save" onclick={handleSave} disabled={saveDisabled}></lightning-button>
+  </lightning-modal-footer>
+</template>

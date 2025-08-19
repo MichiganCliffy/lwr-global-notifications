@@ -1,0 +1,20 @@
+<template>
+  <div class="slds-comment slds-hint-parent">
+    <div lwc:if={saving} class="saving-comment">
+      <lightning-spinner variant="brand" alternative-text="Saving..." size="large"></lightning-spinner>
+    </div>
+    <lightning-input-rich-text variant="bottom-toolbar" label="Update Comment" disabled-categories="FORMAT_FONT" onchange={handleCommentChange} value={comment}></lightning-input-rich-text>
+    <c-lwr-chatter-mention-lookup mention-map={mentions} onselect={handleMentionSelect}></c-lwr-chatter-mention-lookup>
+    <div class="comment-controls">
+      <ul>
+        <template for:each={files} for:item="file">
+          <li key={file.id}>
+            <div class="slds-text-body_small">{file.name}</div>
+          </li>
+        </template>
+      </ul>
+      <lightning-button class="cancel-action" variant="neutral" label="Cancel" title="Cancel" onclick={handleCancel}></lightning-button>
+      <lightning-button class="save-action" variant="brand" label="Save" title="Update Comment" onclick={handleUpdate} disabled={emptyComment}></lightning-button>
+    </div>
+  </div>
+</template>

@@ -1,0 +1,123 @@
+[
+  {
+    "altText": null,
+    "htmlTag": "p",
+    "markupType": "Paragraph",
+    "text": "",
+    "type": "MarkupBegin",
+    "url": null
+  },
+  { "text": "Trying to ", "type": "Text" },
+  {
+    "accessible": true,
+    "name": "bclifford",
+    "record": {
+      "additionalLabel": null,
+      "communityNickname": "bclifford",
+      "companyName": "Salesforce",
+      "displayName": "bclifford",
+      "firstName": null,
+      "id": "005al000000MFmnAAG",
+      "isActive": true,
+      "isInThisCommunity": true,
+      "lastName": null,
+      "motif": {
+        "color": "1B96FF",
+        "largeIconUrl": "/img/icon/profile64.png",
+        "mediumIconUrl": "/img/icon/profile32.png",
+        "smallIconUrl": "/img/icon/profile16.png",
+        "svgIconUrl": null
+      },
+      "mySubscription": null,
+      "name": "bclifford",
+      "outOfOffice": { "message": "" },
+      "photo": {
+        "fullEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_200_v2.png?fromEmail=1",
+        "largePhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/F",
+        "mediumPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/M",
+        "photoVersionId": null,
+        "smallPhotoUrl": "https://unittest.develop.my.salesforce.com/profilephoto/005/T",
+        "standardEmailPhotoUrl": "https://unittest.develop.my.salesforce.com/sfsites/c/img/userprofile/default_profile_45_v2.png?fromEmail=1",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/user-profiles/005al000000MFmnAAG/photo"
+      },
+      "reputation": null,
+      "title": null,
+      "type": "User",
+      "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG",
+      "userType": "Internal"
+    },
+    "text": "@bclifford",
+    "type": "Mention"
+  },
+  { "text": " mention myself ", "type": "Text" },
+  {
+    "altText": null,
+    "htmlTag": "b",
+    "markupType": "Bold",
+    "text": "",
+    "type": "MarkupBegin",
+    "url": null
+  },
+  { "text": "This", "type": "Text" },
+  {
+    "htmlTag": "b",
+    "markupType": "Bold",
+    "text": "",
+    "type": "MarkupEnd"
+  },
+  { "text": " is a ", "type": "Text" },
+  {
+    "altText": null,
+    "htmlTag": "u",
+    "markupType": "Underline",
+    "text": "",
+    "type": "MarkupBegin",
+    "url": null
+  },
+  { "text": "comment", "type": "Text" },
+  {
+    "htmlTag": "u",
+    "markupType": "Underline",
+    "text": "",
+    "type": "MarkupEnd"
+  },
+  { "text": " with ", "type": "Text" },
+  {
+    "altText": null,
+    "htmlTag": "i",
+    "markupType": "Italic",
+    "text": "",
+    "type": "MarkupBegin",
+    "url": null
+  },
+  { "text": "a lot", "type": "Text" },
+  {
+    "htmlTag": "i",
+    "markupType": "Italic",
+    "text": "",
+    "type": "MarkupEnd"
+  },
+  { "text": " of ", "type": "Text" },
+  {
+    "altText": null,
+    "htmlTag": "s",
+    "markupType": "Strikethrough",
+    "text": "[Crossed-out text: ",
+    "type": "MarkupBegin",
+    "url": null
+  },
+  { "text": "rich", "type": "Text" },
+  {
+    "htmlTag": "s",
+    "markupType": "Strikethrough",
+    "text": "]",
+    "type": "MarkupEnd"
+  },
+  { "text": " text!", "type": "Text" },
+  {
+    "htmlTag": "p",
+    "markupType": "Paragraph",
+    "text": "\n",
+    "type": "MarkupEnd"
+  }
+]

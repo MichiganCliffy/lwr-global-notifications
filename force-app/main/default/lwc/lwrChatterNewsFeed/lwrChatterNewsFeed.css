@@ -1,0 +1,14 @@
+/* li.slds-feed__item:nth-child(even) {
+  color: var(--dxp-g-root-contrast, black);
+  background-color: var(--dxp-s-dropdown-color-background-hover, gray);
+}
+ */
+/* li.slds-feed__item {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: var(--dxp-s-form-element-color-border, gray);
+} */
+/* 
+li.slds-feed__item:first-child {
+  border-top-style: none;
+} */

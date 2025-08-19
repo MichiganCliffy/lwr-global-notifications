@@ -1,0 +1,31 @@
+<template>
+  <article class="slds-comment slds-media slds-hint-parent">
+    <div lwc:if={deleting} class="deleting-comment">
+      <lightning-spinner variant="brand" alternative-text="Saving..." size="large"></lightning-spinner>
+    </div>
+    <div lwc:if={hasAvatar} class="slds-media__figure">
+      <input type="image" src={avatar} title={avatarTitle} class="slds-avatar slds-avatar_circle slds-avatar_medium" onclick={handleAuthorClick}>
+    </div>
+    <div class="slds-media__body">
+      <header class="slds-media slds-media_center">
+        <div class="slds-grid slds-grid_align-spread slds-has-flexi-truncate">
+          <lightning-button variant="base" label={author} title={author} onclick={handleAuthorClick}></lightning-button>
+          <c-lwr-chatter-comment-menu item={item} onselect={handleMenuSelect}></c-lwr-chatter-comment-menu>
+        </div>
+      </header>
+      <div class="slds-comment__content slds-text-longform">
+        <c-lwr-chatter-comment-body body={body} capabilities={capabilities}></c-lwr-chatter-comment-body>
+      </div>
+      <footer>
+        <ul class="slds-list_horizontal slds-has-dividers_right slds-text-body_small">
+          <li class="slds-item">
+            <button title="Like this item" class="slds-button_reset slds-text-color_weak like-action" onclick={handleLikeClick}>
+              {likedLabel}
+            </button>
+          </li>
+          <li class="slds-item comment-date">{relativeCreatedDate}</li>
+        </ul>
+      </footer>
+    </div>
+  </article>
+</template>

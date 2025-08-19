@@ -1,0 +1,50 @@
+a.notification {
+  display: block;
+  padding: 1rem 1.5rem;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: var(--dxp-s-dropdown-color-border, gray);
+  color: var(--dxp-g-root-contrast, black);
+}
+
+a.notification:hover,
+a.notification:focus,
+a.notification:active {
+  color: var(--dxp-g-root-contrast, black);
+  text-decoration: none;
+  background-color: var(--dxp-s-dropdown-color-background-hover, gray);
+}
+
+.notification__container {
+  display: flex;
+}
+
+.notification-avatar {
+  margin-right: 1rem;
+  padding-top: 0.25rem;
+}
+
+.notification-content {
+  flex-grow: 2;
+}
+
+.notification-title {
+  font-size: var(--dxp-s-text-heading-extra-small-font-size, 0.8125rem);
+  font-weight: var(--dxp-s-text-heading-extra-small-font-weight, 600);
+}
+
+.notification-message,
+.notification-time {
+  font-size: var(--dxp-s-body-small-font-size, 0.75rem);
+  font-weight: var(--dxp-s-body-small-font-weight, 400);
+  line-height: var(--dxp-s-body-small-line-height, 1.25);
+}
+
+.notification-time {
+  margin-right: 0.25rem;
+}
+
+.notification-avatar__container {
+  width: 2rem;
+  height: 2rem;
+}

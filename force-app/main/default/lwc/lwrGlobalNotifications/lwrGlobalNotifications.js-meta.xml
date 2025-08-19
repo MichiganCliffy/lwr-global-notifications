@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>62.0</apiVersion>
+    <isExposed>true</isExposed>
+    <masterLabel>LWR Notifications</masterLabel>
+    <description>Show global notifications within an Experience Cloud LWR Site.</description>
+    <targets>
+      <target>lightningCommunity__Page</target>
+      <target>lightningCommunity__Default</target>
+    </targets>
+    <targetConfigs>
+      <targetConfig targets="lightningCommunity__Default">
+        <property type="Boolean" name="leftAlign" label="Left Align Notification Panel?" description="Should the panel that shows the notifications be left aligned rather than right aligned." default="false" />
+        <property type="String" name="chatterPostPage" label="Chatter Page" description="What is the API Name of the page that displays a chatter post?" default="Post__c" />
+      </targetConfig>
+    </targetConfigs>
+    <capabilities>
+      <capability>lightningCommunity__RelaxedCSP</capability>
+    </capabilities>
+</LightningComponentBundle>

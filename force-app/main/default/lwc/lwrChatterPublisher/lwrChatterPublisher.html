@@ -1,0 +1,43 @@
+<template>
+  <div class="slds-feed slds-publisher slds-is-active">
+    <template lwc:if={show}>
+      <div lwc:if={saving} class="saving-post">
+        <lightning-spinner variant="brand" alternative-text="Saving..." size="large"></lightning-spinner>
+      </div>
+      <lightning-input-rich-text variant="bottom-toolbar" label="Share an Update" disabled-categories="FORMAT_FONT" placeholder="Share an update..." onchange={handlePostChange}></lightning-input-rich-text>
+      <c-lwr-chatter-mention-lookup onselect={handleMentionSelect}></c-lwr-chatter-mention-lookup>
+
+      <div class="slds-publisher__controls">
+        <div class="slds-publisher-attributes">
+          <div class="slds-publisher-target">
+            <span class="slds-assistive-text">Share an update</span>
+            <b>To:</b> {objectName}
+          </div>
+          <div lwc:if={showAttachment} class="slds-publisher-attachments">
+            <lightning-button-icon icon-name="utility:attach" class="add-attachment" size="small" variant="bare" alternative-text="Upload a file" title="Upload a file" onclick={handleFileAttach}></lightning-button-icon>
+          </div>
+          <div lwc:if={hasAttachments} class="slds-publisher-attachments">
+            <div class="slds-text-body_small slds-text-color_error">You have too many attachments. Only {attachmentLimit} attachments supported.</div>
+            <ul>
+              <template for:each={files} for:item="file">
+                <li key={file.id}>
+                  <lightning-button-icon variant="bare" class="remove-attachment" icon-name="utility:close" alternative-text="Remove File" title="Remove File" data-id={file.id} onclick={handleFileRemove}></lightning-button-icon>
+                  <div class="slds-text-body_small">{file.name}</div>
+                </li>
+              </template>
+            </ul>
+          </div>
+        </div>
+        <div class="slds-publisher-action">
+          <lightning-button variant="brand" label="Share" title="Share Update" onclick={handlePostSubmit} disabled={emptyPost}></lightning-button>
+        </div>
+      </div>
+    </template>
+    <template lwc:else>
+      <div class="slds-publisher__prompt">
+        <lightning-input variant="label-hidden" type="text" label="Share an Update" placeholder="Share an update..." onfocus={handlePostToggle}></lightning-input>
+        <button class="slds-button slds-button_brand" disabled>Share</button>
+      </div>
+    </template>
+  </div>
+</template>

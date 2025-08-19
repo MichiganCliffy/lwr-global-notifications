@@ -1,0 +1,13 @@
+<template>
+  <lightning-formatted-rich-text value={message}></lightning-formatted-rich-text>
+  <ul class="post-attachments" lwc:if={hasAttachements}>
+    <template for:each={attachments} for:item="attachment">
+      <li key={attachment.id}>
+        <a href={attachment.download} target="_blank" title="Click to download">
+          <span lwc:if={attachment.processing}>{attachment.title}</span>
+          <img lwc:else src={attachment.src} title={attachment.title} alt={attachment.alt} />
+        </a>
+      </li>
+    </template>
+  </ul>
+</template>

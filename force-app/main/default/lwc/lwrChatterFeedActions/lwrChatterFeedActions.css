@@ -1,0 +1,10 @@
+.slds-feed__actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+.slds-feed-sort,.slds-feed-search{
+  max-width: 200px;
+}

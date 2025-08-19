@@ -1,0 +1,37 @@
+{
+  "isRichText": null,
+  "messageSegments": [
+    {
+      "motif": {
+        "color": "9602C7",
+        "largeIconUrl": "/img/icon/contacts64.png",
+        "mediumIconUrl": "/img/icon/contacts32.png",
+        "smallIconUrl": "/img/icon/contacts16.png",
+        "svgIconUrl": null
+      },
+      "reference": {
+        "id": "003al000000XgDRAA0",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/records/003al000000XgDRAA0"
+      },
+      "text": "Andy Young",
+      "type": "EntityLink"
+    },
+    { "text": " — ", "type": "Text" },
+    {
+      "motif": {
+        "color": "1B96FF",
+        "largeIconUrl": "/img/icon/profile64.png",
+        "mediumIconUrl": "/img/icon/profile32.png",
+        "smallIconUrl": "/img/icon/profile16.png",
+        "svgIconUrl": null
+      },
+      "reference": {
+        "id": "005al000000MFmnAAG",
+        "url": "/services/data/v63.0/connect/communities/0DBal0000008hz3GAA/chatter/users/005al000000MFmnAAG"
+      },
+      "text": "bclifford",
+      "type": "EntityLink"
+    }
+  ],
+  "text": "Andy Young — bclifford"
+}

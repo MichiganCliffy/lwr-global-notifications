@@ -1,0 +1,11 @@
+article.slds-post {
+  background-color: transparent;
+}
+
+.slds-post__footer c-lwr-chatter-feed-item-actions {
+  flex-grow: 2;
+}
+
+.slds-comment .slds-form-element {
+  margin-bottom: 0;
+}

@@ -1,0 +1,16 @@
+<template>
+  <ul class="slds-post__footer-actions-list slds-list_horizontal">
+    <li class="slds-item slds-m-right_medium">
+      <button title="Like this item" class="slds-button_reset slds-post__footer-action like-action" onclick={handleLikeClick}>
+        <lightning-icon icon-name="utility:like" alternative-text={likedLabel} size="x-small" title={likedLabel}></lightning-icon>
+        {likedLabel}
+      </button>
+    </li>
+    <li class="slds-item slds-m-right_medium">
+      <button title="Comment on this item" class="slds-button_reset slds-post__footer-action comment-action" onclick={handleCommentClick}>
+        <lightning-icon icon-name="utility:share_post" alternative-text="Comment" size="x-small" title="Comment"></lightning-icon>
+        Comment
+      </button>
+    </li>
+  </ul>
+</template>

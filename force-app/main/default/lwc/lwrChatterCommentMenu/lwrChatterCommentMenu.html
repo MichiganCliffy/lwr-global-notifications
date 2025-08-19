@@ -1,0 +1,6 @@
+<template>
+  <lightning-button-menu lwc:if={show} alternative-text="More Options" variant="border" icon-size="x-small" onselect={handleMenuSelect}>
+    <lightning-menu-item lwc:if={canEdit} value="Edit" label="Edit"></lightning-menu-item>
+    <lightning-menu-item lwc:if={canDelete} value="Delete" label="Delete"></lightning-menu-item>
+  </lightning-button-menu>
+</template>

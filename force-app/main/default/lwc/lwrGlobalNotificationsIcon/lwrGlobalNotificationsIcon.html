@@ -1,0 +1,7 @@
+<template>
+  <button aria-haspopup="dialog" aria-describedby={assistiveId} aria-live="assertive" aria-atomic="true" class="slds-button slds-button_icon slds-button_icon-container slds-button_icon-small" title={labels.Title} onclick={onClickHandler}>
+    <lightning-icon icon-name="utility:notification" size="small" alternative-text={labels.Title}></lightning-icon>
+    <span id={assistiveId} class="slds-assistive-text">{labels.AssistiveCopy}</span>
+  </button>
+  <span lwc:if={hasUnseen} aria-hidden="true" class="slds-notification-badge slds-incoming-notification slds-show-notification">{unseen}</span>
+</template>

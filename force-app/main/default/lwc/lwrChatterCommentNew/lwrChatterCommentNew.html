@@ -1,0 +1,24 @@
+<template>
+  <div class="slds-comment slds-hint-parent">
+    <div lwc:if={showCommentForm}>
+      <div lwc:if={saving} class="saving-comment">
+        <lightning-spinner variant="brand" alternative-text="Saving..." size="large"></lightning-spinner>
+      </div>
+      <lightning-input-rich-text variant="bottom-toolbar" label="Write a Comment" disabled-categories="FORMAT_FONT" placeholder="Write a comment..." onchange={handleCommentChange}></lightning-input-rich-text>
+      <c-lwr-chatter-mention-lookup onselect={handleMentionSelect}></c-lwr-chatter-mention-lookup>
+      <div class="comment-controls">
+        <ul lwc:if={hasFiles}>
+          <template for:each={files} for:item="file">
+            <li key={file.id}>
+              <lightning-button-icon variant="bare" icon-name="utility:close" class="remove-attachment" alternative-text="Remove File" title="Remove File" data-id={file.id} onclick={handleFileRemove}></lightning-button-icon>
+              <div class="slds-text-body_small">{file.name}</div>
+            </li>
+          </template>
+        </ul>
+        <lightning-button-icon lwc:else icon-name="utility:attach" class="add-attachment" variant="bare" alternative-text="Attach file" title="Attach file" onclick={handleFileAttach}></lightning-button-icon>
+        <lightning-button variant="brand" label="Comment" title="Submit Comment" onclick={handleCommentSubmit} disabled={emptyComment}></lightning-button>
+      </div>
+    </div>
+    <lightning-input lwc:else class="toggle" variant="label-hidden" type="text" label="Write a Comment" placeholder="Write a comment..." onfocus={handleCommentToggle}></lightning-input>
+  </div>
+</template>

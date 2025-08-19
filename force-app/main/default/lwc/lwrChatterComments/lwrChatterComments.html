@@ -1,0 +1,15 @@
+<template>
+  <template lwc:if={hasComments}>
+    <div lwc:if={hasMore} class="comments-heading slds-p-horizontal_medium slds-p-vertical_x-small slds-grid">
+      <lightning-button variant="base" label="More comments" onclick={handleMoreClick}></lightning-button>
+      <span class="slds-text-body_small slds-col_bump-left">{count} of {comments}</span>
+    </div>
+    <ul class="comments-list">
+      <template for:each={items} for:item="item">
+        <li key={item.id}>
+          <c-lwr-chatter-comment item={item} ondelete={handleDelete} onupdate={handleUpdate} onedittoggle={handleEditToggle}></c-lwr-chatter-comment>
+        </li>
+      </template>
+    </ul>
+  </template>
+</template>

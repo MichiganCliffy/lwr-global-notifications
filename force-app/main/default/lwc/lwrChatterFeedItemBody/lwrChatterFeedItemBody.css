@@ -1,0 +1,19 @@
+ul.post-attachments {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1rem 0 0;
+}
+
+ul.post-attachments li {
+  display: block;
+  list-style-type: none;
+  width: calc(25% - 0.75rem);
+  height: 140px;
+}
+
+ul.post-attachments li img {
+  object-fit: none;
+  width: 100%;
+  height: 100%;
+}

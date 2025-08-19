@@ -1,0 +1,34 @@
+<template>
+  <a class="notification" onclick={handleClick} onkeypress={handleKeyPress} tabindex="0">
+    <div class="notification__container">
+      <div lwc:if={hasIcon} class="notification-avatar">
+        <div class="notification-avatar__container"><lightning-icon icon-name={notification.icon}></lightning-icon></div>
+      </div>
+      <div lwc:elseif={hasAvatar} class="notification-avatar">
+        <div class="notification-avatar__container"><img src={avatar} alt="" /></div>
+      </div>
+      <div class="notification-content">
+        <div class="notification-content__message">
+          <template lwc:if={hasTitle}>
+            <h2 class="notification-title"><lightning-formatted-text value={notification.messageTitle}></lightning-formatted-text></h2>
+          </template>
+          <lightning-formatted-text class="notification-message" value={notification.messageBody}></lightning-formatted-text>
+        </div>
+        <div class="notification-content__timestamp">
+          <lightning-formatted-date-time
+            class="notification-time"
+            value={notification.mostRecentActivityDate}
+            year="numeric"
+            month="short"
+            day="numeric"
+            hour="numeric"
+            minute="2-digit"></lightning-formatted-date-time>
+          <span lwc:if={isUnread} class="notification-unread">
+            <span aria-hidden="true">&#9679;</span>
+            <span class="slds-assistive-text">{labels.Unread}</span>
+          </span>
+        </div>
+      </div>
+    </div>
+  </a>
+</template>
