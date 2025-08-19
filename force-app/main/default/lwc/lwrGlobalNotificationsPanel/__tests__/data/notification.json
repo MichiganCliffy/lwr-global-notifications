@@ -1,0 +1,20 @@
+[
+  {
+    "communityId": "all",
+    "count": 1,
+    "id": "e598d8f26ae97e886343aea0e8b86d53",
+    "image": "https://demo.sandbox.my.salesforce.com/img/notificationsEmail/custom_notification.png",
+    "lastModified": "2025-02-24T21:27:50.313Z",
+    "messageBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus mattis luctus ante non congue. Donec lobortis, risus et faucibus rutrum, nunc lacus euismod odio, ac maximus dolor nisl non lacus.",
+    "messageTitle": "Test Notification 50",
+    "mostRecentActivityDate": "2025-02-24T21:45:06.730Z",
+    "organizationId": "00D8I000001VePiUAK",
+    "read": false,
+    "recipientId": "00559000001kyRsAAI",
+    "seen": true,
+    "target": "006Nq00000FEyJrIAL",
+    "type": "0ML59000000CbazGAC",
+    "url": "/connect/notifications/e598d8f26ae97e886343aea0e8b86d53",
+    "objectApiName": "Opportunity"
+  }
+]
